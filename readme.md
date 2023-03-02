@@ -130,13 +130,13 @@ your needs, it can be adjusted, given that we are still in the early stages of t
 
 At this juncture, the efficacy of the documentation is measured by how well it enables us to manage the project. We will
 review this effectiveness before the next iteration of the project.
-# Your  plan should replace the content below
+# Project Setup and Planning
 
-[Project Setup](https://github.com/rk864/mywebclass-agile-docs/blob/main/documentation/Theme1_MyWebClass.org%20Website%20Development/theme_project_setup.md)
+[Project Setup Planning](https://github.com/rk864/mywebclass-agile-docs/blob/main/documentation/Theme1_MyWebClass.org%20Website%20Development/theme_project_setup.md)
 
 ## Release Schedule
 
 | Release Version | Release Date | Features |
 |-----------------|--------------|----------|
-| 0.1.x           | 30-April-2023| Initial website with CICD pipeline and GDPR-compliant|
+| 0.1.0           | 30-April-2023| Theme 1 : Initial website with CICD pipeline and GDPR-compliant|
 
