@@ -9,7 +9,7 @@ us up for long-term success.
 * [Develop initial project documentation to establish a clear project scope.](initiatives/documentation_initiative.md)
 * [Set up the CI/CD DevOps processes to ensure efficient and collaborative development practices.](initiatives/initiative_devops.md)
 * [Create an initial web page template that includes](initiatives/initiative_webpage_template.md)
-
+<!--Update all initiatives>
 * Monitoring to continuously improve the quality of our project
   * Website analytics to collect data that can be used to continuously improve MyWebClass for our community members
   * Project metrics to continuously improve the management of the project

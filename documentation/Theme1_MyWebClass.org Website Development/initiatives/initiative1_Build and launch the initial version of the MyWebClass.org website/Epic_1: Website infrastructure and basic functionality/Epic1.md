@@ -26,3 +26,4 @@ Priority: [High]
 1.[Story 1]As a user, I want the website to have a clear and intuitive navigation menu, so that I can easily find the content I need.
 2.[Story 2] As a user, I want the website to load quickly, so that I can access the content without delays.
 
+<!--Estimated effort is too high>

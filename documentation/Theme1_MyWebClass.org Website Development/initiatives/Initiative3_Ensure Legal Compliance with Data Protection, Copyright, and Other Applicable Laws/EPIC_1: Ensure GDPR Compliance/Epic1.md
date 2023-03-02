@@ -30,5 +30,5 @@ Business Value: [Ensuring compliance with GDPR will help to protect user privacy
 Priority: [High]
 
 # List stories related to this theme
-
-
+1.
+<!--Listed stories are missing>
