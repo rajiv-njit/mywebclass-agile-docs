@@ -132,7 +132,7 @@ At this juncture, the efficacy of the documentation is measured by how well it e
 review this effectiveness before the next iteration of the project.
 # Your  plan should replace the content below
 
-[Project Setup](documentation/Theme1_MyWebClass.org Website Development/theme_project_setup.md)
+[Project Setup](https://github.com/rk864/mywebclass-agile-docs/blob/main/documentation/Theme1_MyWebClass.org%20Website%20Development/theme_project_setup.md)
 
 ## Release Schedule
 
