@@ -11,4 +11,5 @@ The entire process is documented and can be repeated for future code changes.
 
 
 # List Tasks related to this theme
-1. 
+1. Install a CI Server for the MyWebClass Website
+2. Set up Automated Testing and Deployment Process on CI Server Using Github, PyCharm, and Docker
