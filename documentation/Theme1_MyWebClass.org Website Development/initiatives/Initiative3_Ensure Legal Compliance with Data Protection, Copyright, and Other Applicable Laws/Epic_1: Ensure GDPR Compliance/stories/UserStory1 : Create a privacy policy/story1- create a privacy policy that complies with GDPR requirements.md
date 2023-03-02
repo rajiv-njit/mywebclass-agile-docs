@@ -10,6 +10,8 @@ The privacy policy includes information about how long personal data is stored, 
 The privacy policy includes information about how users can exercise their rights under GDPR, such as the right to access, rectify, or erase their personal data.
 The privacy policy is easily accessible from the website, such as in the footer or in a dedicated privacy policy page.
 
-<!--Rajiv, your listed tasks are missing>
-# List Tasks related to this theme
-1.
+<!--Rajiv, your listed tasks are missing-->
+
+#List Tasks related to this theme
+1. Task 1 - Conduct a GDPR Compliance Review of the Website's Privacy Policy
+2. Task 2 - Add the privacy policy to the website and ensure it is easily accessible.
