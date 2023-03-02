@@ -6,9 +6,9 @@ solid foundation that ensures our web page meets our business requirements throu
 us up for long-term success.
 ## Initiative(s)
 
-* [Develop initial project documentation to establish a clear project scope.](initiatives/documentation_initiative.md)
-* [Set up the CI/CD DevOps processes to ensure efficient and collaborative development practices.](initiatives/initiative_devops.md)
-* [Create an initial web page template that includes](initiatives/initiative_webpage_template.md)
+* [Implementing a DevOps Process for Continuous Integration and Deployment.](https://github.com/rk864/mywebclass-agile-docs/blob/main/documentation/Theme1_MyWebClass.org%20Website%20Development/initiatives/Initiative2_Implement%20a%20DevOps%20Process%20for%20Continuous%20Integration%20and%20Deployment/initiative_initiate%20Devops%20Process.md)
+* [Document, Plan Build initial MyWebClass.org Website.](https://github.com/rk864/mywebclass-agile-docs/blob/main/documentation/Theme1_MyWebClass.org%20Website%20Development/initiatives/initiative1_Build%20and%20launch%20the%20initial%20version%20of%20the%20MyWebClass.org%20website/initiative_basic_wepbage.md)
+* [Ensure Legal Compliance with GDPR, and Other Applicable Laws. and Launch MyWebClass.org Website.](https://github.com/rk864/mywebclass-agile-docs/blob/main/documentation/Theme1_MyWebClass.org%20Website%20Development/initiatives/Initiative3_Ensure%20Legal%20Compliance%20with%20Data%20Protection%2C%20Copyright%2C%20and%20Other%20Applicable%20Laws/initiative_Ensure%20Legal%20Compliance.md))
 <!--Update all initiatives>
 * Monitoring to continuously improve the quality of our project
   * Website analytics to collect data that can be used to continuously improve MyWebClass for our community members
