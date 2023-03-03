@@ -31,7 +31,7 @@ Improve the quality and reliability of the website code by catching errors and b
 Reduce the risk of downtime and other issues caused by faulty code deployments
 Priority: High
 
-# List stories related to this theme
+# List stories related to this Epic
 [Story1](documentation/Theme1_MyWebClass.org Website Development/initiatives/Initiative2_Implement a DevOps Process for Continuous Integration and Deployment/Epic_1: Set up Continuous Integration (CI) for the MyWebClass website/stories/UserStory1 : set up a CI server for the MyWebClass website/story1 - set up a CI server for the MyWebClass website.md)
 
 

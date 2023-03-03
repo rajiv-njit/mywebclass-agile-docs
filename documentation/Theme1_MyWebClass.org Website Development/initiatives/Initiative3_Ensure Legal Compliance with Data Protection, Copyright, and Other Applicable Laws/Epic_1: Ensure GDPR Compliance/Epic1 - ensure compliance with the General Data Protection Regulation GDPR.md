@@ -25,5 +25,5 @@ Business Value: [Ensuring compliance with GDPR will help to protect user privacy
 
 Priority: [High]
 
-# List stories related to this theme
+# List stories related to this Epic
 1.[create a privacy policy that complies with GDPR requirements]()

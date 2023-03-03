@@ -18,5 +18,5 @@ Estimated Effort: [10 hours]
 Business Value: [ Establishing a functional website with basic infrastructure and functionality will allow the organization to reach a wider audience and provide information to interested parties.]
 Priority: [High]
 
-# List stories related to this theme
+# List stories related to this Epic
 1.[Story 1] able to navigate the site easily
