@@ -10,5 +10,5 @@ Acceptance Criteria:
 
 
 # List Tasks related to this theme
-1. Verify Website Navigation Visibility
-2. Review Navigation Labels and Descriptions
+1. [Task1 -Verify Website Navigation Visibility](https://github.com/rk864/mywebclass-agile-docs/blob/7fe18026ff3fa00d96f887f6b17284912420e1c7/documentation/Theme1_MyWebClass.org%20Website%20Development/initiatives/initiative1_Build%20and%20launch%20the%20initial%20version%20of%20the%20MyWebClass.org%20website/Epic_1:%20Website%20infrastructure%20and%20basic%20functionality/stories/UserStory1%20:%20Navigate%20the%20site/tasks/task1%20-%20Verify%20Website%20Navigation%20Visibility.md)
+2. [Task2 -Review Navigation Labels and Descriptions](https://github.com/rk864/mywebclass-agile-docs/blob/7fe18026ff3fa00d96f887f6b17284912420e1c7/documentation/Theme1_MyWebClass.org%20Website%20Development/initiatives/initiative1_Build%20and%20launch%20the%20initial%20version%20of%20the%20MyWebClass.org%20website/Epic_1:%20Website%20infrastructure%20and%20basic%20functionality/stories/UserStory1%20:%20Navigate%20the%20site/tasks/task1%20-%20Verify%20Website%20Navigation%20Visibility.md)
