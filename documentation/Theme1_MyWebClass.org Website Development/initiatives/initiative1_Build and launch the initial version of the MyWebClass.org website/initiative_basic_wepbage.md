@@ -56,7 +56,29 @@ Content Creator
 Quality Assurance Tester]
 
 ## Epics
-* [Epic 1]EPIC:As a user, I want to access the MyWebClass website and navigate through it easily so that I can find the resources I need to learn web development.
-* [Epic 2] EPIC :Add a Contact Form to the Website
+* [Epic 1 - Establish website Infrastructure and Basic Functionality (Initial Launch)](https://github.com/rk864/mywebclass-agile-docs/blob/7fe18026ff3fa00d96f887f6b17284912420e1c7/documentation/Theme1_MyWebClass.org%20Website%20Development/initiatives/initiative1_Build%20and%20launch%20the%20initial%20version%20of%20the%20MyWebClass.org%20website/Epic_1:%20Website%20infrastructure%20and%20basic%20functionality/Epic1%20-%20Establish%20website%20infrastructure%20and%20basic%20functionality.md)
+
 ## Test plan
-How will this be tested?
+Introduction:
+This test plan is designed to ensure that the initial webpage of MyWebClass.org meets the goals, scope, and outcomes outlined in the project description. The following sections describe the testing approach, test scenarios, and test cases that will be used to verify the quality and functionality of the webpage.
+
+Testing Approach:
+The testing approach will include manual testing and user acceptance testing.
+
+Test Scenarios:
+
+Test the functionality of the navigation menu to ensure that all links are working correctly.
+Test the layout and design of the webpage to ensure that it is visually appealing and user-friendly.
+Test the responsiveness of the webpage on different devices and screen sizes.
+Test the loading speed of the webpage to ensure that it loads quickly.
+Test the accessibility of the webpage to ensure that it is accessible to users with disabilities.
+Test Cases:
+
+Click on each link in the navigation menu and verify that it leads to the correct page.
+Verify that the layout and design of the webpage are consistent and easy to navigate.
+Test the webpage on different devices and screen sizes and verify that it adjusts appropriately.
+Use a website speed testing tool to measure the loading speed of the webpage and ensure that it loads within an acceptable time frame.
+Use an accessibility testing tool to verify that the webpage meets accessibility standards and is accessible to users with disabilities.
+
+Conclusion:
+By following this test plan, we can ensure that the initial webpage of MyWebClass.org meets the goals, scope, and outcomes outlined in the project description and is of high quality for the target audience.
