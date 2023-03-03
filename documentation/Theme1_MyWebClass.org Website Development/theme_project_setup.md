@@ -18,10 +18,17 @@ us up for long-term success.
 ###
 test plan for the initiative of building and launching the initial version of the MyWebClass.org website:
 
-*Navigation testing:[Verify that all website navigation links and buttons are working as expected and lead to the correct pages.]
-*Functionality testing:[Test all website functionality, including search functionality, forms, and any interactive features, to ensure they are working as expected.]
-*Content testing:[Review all website content for accuracy, completeness, and readability.]
-*Compatibility testing:[Test the website on multiple browsers and devices to ensure compatibility and responsiveness.]
-*Performance testing:[Test website loading times and page speed to ensure they are within acceptable ranges.]
-*Security testing:[Conduct security testing to identify and address any vulnerabilities or risks.]
-*User acceptance testing:[Conduct user acceptance testing to gather feedback and ensure the website meets the needs of its users.]
+### Navigation testing:
+[Verify that all website navigation links and buttons are working as expected and lead to the correct pages.]
+### Functionality testing:
+[Test all website functionality, including search functionality, forms, and any interactive features, to ensure they are working as expected.]
+### Content testing:
+[Review all website content for accuracy, completeness, and readability.]
+### Compatibility testing:
+[Test the website on multiple browsers and devices to ensure compatibility and responsiveness.]
+### Performance testing:
+[Test website loading times and page speed to ensure they are within acceptable ranges.]
+### Security testing:
+[Conduct security testing to identify and address any vulnerabilities or risks.]
+### User acceptance testing:
+[Conduct user acceptance testing to gather feedback and ensure the website meets the needs of its users.]
