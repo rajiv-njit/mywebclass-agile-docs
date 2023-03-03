@@ -48,7 +48,7 @@ Development Team: Responsible for integrating the DevOps process into the softwa
 Operations Team: Responsible for providing infrastructure and resources necessary for DevOps implementation and maintenance.]
 
 ## Epics
-* [Epic 1]EPIC:As a user, I want to access the MyWebClass website and navigate through it easily so that I can find the resources I need to learn web development.
+* [Epic 1](https://github.com/rk864/mywebclass-agile-docs/blob/main/documentation/Theme1_MyWebClass.org%20Website%20Development/initiatives/initiative1_Build%20and%20launch%20the%20initial%20version%20of%20the%20MyWebClass.org%20website/Epic_1:%20Website%20infrastructure%20and%20basic%20functionality/Epic1.md).
 
 ## Test plan
 Set up a test environment for CI/CD pipeline.
